@@ -1,0 +1,13 @@
+SVM :     E. V. Carrera, A. González and R. Carrera, "Automated detection of diabetic retinopathy using SVM," 2017 IEEE XXIV International Conference on Electronics, Electrical Engineering and Computing (INTERCON), Cusco, Peru, 2017, pp. 1-4, doi: 10.1109/INTERCON.2017.8079692.
+
+
+
+KNN:   Jaspreet Kaur, Prabhpreet Kaur, Automated Computer-Aided Diagnosis of Diabetic Retinopathy Based on Segmentation and Classification using K-nearest neighbor algorithm in retinal images, The Computer Journal, Volume 66, Issue 8, August 2023, Pages 2011–2032, https://doi.org/10.1093/comjnl/bxac059 
+
+
+Decision tree:    E. Z. Aziza, L. Mohamed El Amine, M. Mohamed and B. Abdelhafid, "Decision tree CART algorithm for diabetic retinopathy classification," 2019 6th International Conference on Image and Signal Processing and their Applications (ISPA), Mostaganem, Algeria, 2019, pp. 1-5, doi: 10.1109/ISPA48434.2019.8966905.
+
+
+ANN:  N. H. Harun, Y. Yusof, F. Hassan and Z. Embong, "Classification of Fundus Images For Diabetic Retinopathy using Artificial Neural Network," 2019 IEEE Jordan International Joint Conference on Electrical Engineering and Information Technology (JEEIT), Amman, Jordan, 2019, pp. 498-501, doi: 10.1109/JEEIT.2019.8717479
+
+
